@@ -51,8 +51,8 @@ The exhibition showcased outstanding student projects and innovative technical i
 ### Brew & Bean Booth
 ![Brew & Bean Booth](screenshots/exhibition-booth.jpg)
 
-### Project Presentation
-![Project Presentation](screenshots/project-presentation.jpg)
+### Selected Project
+![Selected Project](screenshots/selected-project.jpg)
 
 
 ---
