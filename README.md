@@ -45,9 +45,15 @@ The exhibition showcased outstanding student projects and innovative technical i
 
 ## Exhibition Photos
 
-![Exhibition](screenshots/exhibition1.jpg)
+### Future Innovations Exhibition
+![Future Innovations Exhibition](screenshots/exhibition-banner.jpg)
 
-![Project Booth](screenshots/exhibition2.jpg)
+### Brew & Bean Booth
+![Brew & Bean Booth](screenshots/exhibition-booth.jpg)
+
+### Project Presentation
+![Project Presentation](screenshots/project-presentation.jpg)
+
 
 ---
 
